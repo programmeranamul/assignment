@@ -2,16 +2,16 @@
 
 
 // kilometerToMeter
-function kilometerToMeter(km){
+function kilometerToMeter(kilometer){
     //If user input a number value
-    if(typeof km == "number"){
+    if(typeof kilometer == "number"){
         //If User Input A Negative Value
-        if( km < 0 ){
+        if( kilometer < 0 ){
             return "Distance cannot be negative.";
         }
         //If User Input A Valid Value;
         else{
-            var meter = km * 1000;
+            var meter = kilometer * 1000;
             return meter;
         } 
     }
@@ -20,8 +20,8 @@ function kilometerToMeter(km){
         return "Distance can not be String or other. Input A number Value";
     }   
 }
-// var kilometer = kilometerToMeter(67.67);
-// console.log(kilometer);
+// var finalMeterResult = kilometerToMeter(678.897);
+// console.log(finalMeterResult);
 
 
 //budgetCalculator 
