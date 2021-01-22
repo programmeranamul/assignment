@@ -1,3 +1,4 @@
+//https://github.com/programmeranamul/assignment
 
 
 // kilometerToMeter
@@ -112,8 +113,3 @@ function megaFriend(names){
 // console.log(megaFriendResult);
 
 
-
-
-
-
- 
