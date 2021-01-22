@@ -81,8 +81,8 @@ function hotelCost(day){
         return " Input Number Value";
     }
 }
-// var stayHotelDay = hotelCost(78);
-// console.log(stayHotelDay);
+// var totalHotelCost = hotelCost(78);
+// console.log(totalHotelCost);
 
 
 //megaFriend
